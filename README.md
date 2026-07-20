@@ -25,7 +25,7 @@ A simple ATM Banking System developed in **C Programming** using **Structures**,
 
 ---
 
-##  Technologies Used
+##  Technologies or concept Used
 
 - C Programming
 - Structures
@@ -48,7 +48,10 @@ ATM-Banking-System/
 ├── bank.dat             # Customer Database
 ├── README.md
 ├── .gitignore
-└── screenshots/
+├── Outputs/
+├── PPTs/
+└── Reports/
+
 ```
 
 ---
@@ -140,20 +143,6 @@ Save to bank.dat
 
 ---
 
-##  Screenshots
-
-Add screenshots here after running the project.
-
-- Account Creation
-- Login Screen
-- ATM Menu
-- Deposit
-- Withdrawal
-- Transfer Money
-- Mini Statement
-
----
-
 ##  Learning Outcomes
 
 This project demonstrates:
@@ -187,7 +176,7 @@ This project demonstrates:
 
 **Harpal Singh Lodhi**
 
-B.Tech Computer Science & Engineering (AI)
+B.Tech Computer Science & Engineering 
 
 Greater Noida College of Technology
 
